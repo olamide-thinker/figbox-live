@@ -20,7 +20,6 @@ export default function Page() {
   const iD = Math.floor(Math.random() * 100)
 
 
-
   useEffect(() => {
     (async () => {
       try {
